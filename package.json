@@ -1,0 +1,25 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "Nodejs Twitter Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaotripa/twitter-bot.git"
+  },
+  "author": "Joao Tripa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaotripa/twitter-bot/issues"
+  },
+  "homepage": "https://github.com/joaotripa/twitter-bot#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "nasa-sdk": "^1.1.10",
+    "twitter": "^1.7.1",
+    "ytdl-core": "^0.29.1"
+  }
+}
